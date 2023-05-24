@@ -1,0 +1,11 @@
+@import "~@ptierra/brand-openedx/paragon/fonts";
+@import "~@ptierra/brand-openedx/paragon/variables";
+@import "~@edx/paragon/scss/core/core";
+@import "~@ptierra/brand-openedx/paragon/overrides";
+@import "~@edx/frontend-component-header/dist/index";
+@import "~@ptierra/frontend-component-footer/dist/footer";
+
+@import './profile/index';
+
+@import './skills-builder/skills-builder-modal/skillsBuilderModal.scss';
+@import './skills-builder/skills-builder-header/skillsBuilderHeader.scss';
